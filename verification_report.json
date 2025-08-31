@@ -11,7 +11,7 @@
     "csv": 1,
     "notion": 1,
     "relation": {
-      "expectedLinked": 0,
+      "expectedLinked": 1,
       "gotLinked": 0
     }
   },
@@ -35,8 +35,8 @@
     "csv": 1,
     "notion": 1,
     "relation": {
-      "expectedLinked": 0,
-      "gotLinked": 0
+      "expectedLinked": 1,
+      "gotLinked": 1
     }
   },
   "roles": {

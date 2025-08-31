@@ -1,2 +1,2 @@
-Título,Impacto,Probabilidad,Mitigación
-Bloqueo de agenda,Alto,Medio,Reservar bloques fijos
+Riesgo,Proyecto,Probabilidad,Impacto,Mitigación,Dueño,Notas
+"Falta de claridad de alcance","Proyecto A","Alta","Media","Definir alcance en kickoff","Felipe","Riesgo principal inicial"

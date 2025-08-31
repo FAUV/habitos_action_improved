@@ -80,3 +80,6 @@ databases:
       Sinergizar: "checkbox"
       Afilar_la_sierra: "checkbox"
       Notas: "rich_text"
+  projects:
+      id: 2600ec2c-fe67-810c-b615-e69ec9ae51a6
+      name: 7H_Proyectos

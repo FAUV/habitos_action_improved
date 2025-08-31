@@ -1,2 +1,2 @@
-Título,Área,Prioridad,Estado,Fecha inicio,Fecha vencimiento
-Terminar prototipo,Productividad,Alta,En curso,,
+Objetivo,Proyecto,Rol,Horizonte,Inicio,Final,Métrica,Estado,Notas
+"Primer objetivo ejemplo","Proyecto A","PM","Q3","2025-09-01","2025-12-31","Definir KPI y llegar a 80%","En curso","Notas del objetivo"
