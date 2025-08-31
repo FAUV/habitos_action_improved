@@ -1,0 +1,18 @@
+# Ignorar dependencias y directorios de construcción
+node_modules/
+dist/
+.build/
+.cache/
+.next/
+out/
+coverage/
+# Registros y archivos temporales
+*.log
+.DS_Store
+.env
+.env.*
+*.zip
+*.tar.gz
+# Archivos de proyecto generados
+manifest.json
+projects_db.json

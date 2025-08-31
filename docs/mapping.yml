@@ -1,0 +1,82 @@
+databases:
+  db_tasks_kanban:
+    title: "Título"
+    properties:
+      Proyecto: "select"
+      Rol: "select"
+      Hábito: "select"
+      Cuadrante: "select"
+      Prioridad: "select"
+      Energía: "select"
+      Contexto: "multi_select"
+      Estado: "select"
+      Fecha inicio: "date"
+      Fecha vencimiento: "date"
+      Recurrente: "checkbox"
+      Enlace referencia: "url"
+      Notas: "rich_text"
+  db_backburner:
+    title: "Título"
+    properties:
+      Proyecto: "select"
+      Motivo esperar: "rich_text"
+      Revisar el: "date"
+      Notas: "rich_text"
+  db_references:
+    title: "Título"
+    properties:
+      Tipo: "select"
+      URL: "url"
+      Proyecto: "select"
+      Rol: "select"
+      Etiquetas: "multi_select"
+      Notas: "rich_text"
+  db_riesgos:
+    title: "Riesgo"
+    properties:
+      Proyecto: "select"
+      Probabilidad: "select"
+      Impacto: "select"
+      Mitigación: "rich_text"
+      Dueño: "people"
+      Notas: "rich_text"
+  db_roles:
+    title: "Rol"
+    properties:
+      Descripción: "rich_text"
+      Resultado clave esperado: "rich_text"
+      Métrica: "rich_text"
+  db_mission:
+    title: "Declaración"
+    properties:
+      Fecha: "date"
+      Versión: "select"
+  db_goals:
+    title: "Objetivo"
+    properties:
+      Rol: "select"
+      Horizonte: "select"
+      Inicio: "date"
+      Final: "date"
+      Métrica: "rich_text"
+      Estado: "select"
+  db_weekly_planner:
+    title: "Semana"
+    properties:
+      Fecha_inicio: "date"
+      Big_Rocks: "rich_text"
+      Roles_prioritarios: "multi_select"
+      Objetivos_semana: "rich_text"
+      Evaluación: "number"
+      Retroalimentación: "rich_text"
+  db_habits_tracker:
+    title: "Fecha"
+    properties:
+      Proactivo: "checkbox"
+      Fin_en_mente: "checkbox"
+      Primero_lo_primero: "checkbox"
+      Ganar_Ganar: "checkbox"
+      Comprender_luego_ser_comprendido: "checkbox"
+      Sinergizar: "checkbox"
+      Afilar_la_sierra: "checkbox"
+      Notas: "rich_text"

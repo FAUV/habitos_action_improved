@@ -1,0 +1,58 @@
+{
+  "backburner": {
+    "csv": 1,
+    "notion": 1,
+    "relation": {
+      "expectedLinked": 1,
+      "gotLinked": 1
+    }
+  },
+  "goals": {
+    "csv": 1,
+    "notion": 1,
+    "relation": {
+      "expectedLinked": 0,
+      "gotLinked": 0
+    }
+  },
+  "habits_tracker": {
+    "csv": 7,
+    "notion": 7
+  },
+  "mission": {
+    "csv": 1,
+    "notion": 1
+  },
+  "references": {
+    "csv": 1,
+    "notion": 1,
+    "relation": {
+      "expectedLinked": 1,
+      "gotLinked": 1
+    }
+  },
+  "riesgos": {
+    "csv": 1,
+    "notion": 1,
+    "relation": {
+      "expectedLinked": 0,
+      "gotLinked": 0
+    }
+  },
+  "roles": {
+    "csv": 1,
+    "notion": 1
+  },
+  "tasks_kanban": {
+    "csv": 1,
+    "notion": 1,
+    "relation": {
+      "expectedLinked": 1,
+      "gotLinked": 1
+    }
+  },
+  "weekly_planner": {
+    "csv": 1,
+    "notion": 1
+  }
+}
